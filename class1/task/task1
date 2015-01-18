@@ -1,4 +1,4 @@
-1.- Diseñar un programa que calcule exp(x, n) de forma eficiente.
+1.- Diseñar un programa que calcule x^n de forma eficiente.
 2.- Generar un Makefile para el proyecto anterior
 3.- Investigar sobre CMake(Tools)
 4.- Utilizar CMake para crear el makefile del proyecto.
