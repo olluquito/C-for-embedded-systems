@@ -1,5 +1,31 @@
-1.- Diseñar un programa que calcule x^n de forma eficiente.
-2.- Generar un Makefile para el proyecto anterior
-3.- Investigar sobre CMake(Tools)
+Para hacer las tareas hagan lo siguiente:
+		$ sudo apt-get update
+		$ sudo apt-get upgrade
+		$ sudo apt-get install build-essential
+		$ sudo apt-get install cmake
+
+1.- Diseñar un programa que calcule x^n de forma eficiente en tiempo.
+2.- Generar un Makefile para el proyecto anterior.
+3.- Investigar sobre CMake(Tools).
 4.- Utilizar CMake para crear el makefile del proyecto.
-5.- Compilar código.
+5.- Compilar el siguiente código.
+	#include <stdio.h>
+	int main()
+	{
+		int a,b,c;
+		int count = 1;
+		for (b = c = 10; 
+		a = "- FIGURE?, UMKC,XYZHello Folks,\
+		TFy!QJu ROo TNn(ROo)SLq SLq ULo+\
+		UHs UJq TNn*RPn/QPbEWS_JSWQAIJO^\
+		NBELPeHBFHT}TnALVlBLOFAkHFOuFETp\
+		HCStHAUFAgcEAelclcn^r^r\\tZvYxXy\
+		T|S~Pn SPm SOn TNn ULo0ULo#ULo-W\
+		Hq!WFs XDt!"[b+++21]; )
+		  for(; a-- > 64 ; )
+		    putchar ( ++c=='Z' ? 
+		                         c = c / 9 : 
+		                         33 ^ b & 1  );
+		return 0;
+	}
+y mandarme el pantallazo del terminal.
